@@ -1,0 +1,42 @@
+#banner{
+	width: 100%;
+	height: 200px;
+}
+
+.nav-tabs{
+	background-color: lightgrey;  
+}
+.nave{
+	width: 20%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: dodgerblue;
+}
+
+h1{
+	color:skyblue;
+	 margin-top: 3%;
+}
+
+#fotos{
+	width: 50%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+#rob{
+	width: 90%;
+}
+#dc, #ufscar{
+	width: 10%;
+}
+
+.myfooter{
+	background-color: lightskyblue;
+}
+
+.container-footer{
+	text-align: center;
+}
+
+
